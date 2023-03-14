@@ -1,1 +1,1 @@
-# KSP_KOS
+# Kerbal Space Program - Kerbal Operating System
